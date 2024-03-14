@@ -1,4 +1,4 @@
-# 🎵 SpotiDownload 🎵
+# 🎵 Spotipie 🎵
 
 SpotiDownload est une application incroyablement pratique qui te permet de récupérer facilement les chansons de tes playlists Spotify et de les télécharger directement sur ton appareil !
 
